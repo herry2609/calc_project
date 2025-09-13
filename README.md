@@ -3,6 +3,7 @@
 This repository contains a simple yet effective **Python Calculator** that can perform basic arithmetic operations.  
 The project is created for learning purposes and demonstrates how to build a command-line calculator using Python.  
 It also includes a **calculation history feature** so that users can keep track of their previous results.
+
 ---
 
 ## 🌟 Introduction
